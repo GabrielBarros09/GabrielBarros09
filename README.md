@@ -1,16 +1,13 @@
-## Hi there 👋
+# *Quem sou eu?*
+ 
+- 👤 *Sou o **Gabriel Barros de Albuquerque**, tenho 15 anos, sou corinthiano e estudante da Rede SESI 111.*
 
-<!--
-**GabrielBarros09/GabrielBarros09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📋 *No momento estou realizando um curso de <ins>Análise e Desenvolvimento de Sistemas</ins> na **Escola SENAI Conde José Vicente de Azevedo.***
 
-Here are some ideas to get you started:
+- 💼 *Meu planejamento de carreira, seria prosseguir atuando na <ins>área da programação e tecnologia</ins>, porém no futuro, tenho um grande interesse de ser um empreendedor.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 *Meu gostos pessoais são <ins>esportes, jogos e músicas</ins>. Em meu tempo livre, gosto de <ins>jogar, aprender coisas novas e passar o tempo com minha família</ins>.*
+
+ - 🐦 *Também tenho uma Calopsita, chamada Max, de cor branca e amarela.*
+
+<img src="https://github.com/user-attachments/assets/d968f9f1-38ce-474f-b770-b8bc46be86a0" width="150">
