@@ -10,4 +10,4 @@
 
  - 🐦 *Também tenho uma Calopsita, chamada Max, de cor branca e amarela.*
 
-<img src="https://github.com/user-attachments/assets/d968f9f1-38ce-474f-b770-b8bc46be86a0" width="150">
+<img src="https://github.com/user-attachments/assets/d968f9f1-38ce-474f-b770-b8bc46be86a0" width="150"> <img src="https://github.com/user-attachments/assets/a756b495-0203-4572-aebb-acdd5e56f531" width="300">
