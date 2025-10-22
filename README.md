@@ -8,6 +8,6 @@
 
 - 🎮 *Meu gostos pessoais são <ins>esportes, jogos e músicas</ins>. Em meu tempo livre, gosto de <ins>jogar, aprender coisas novas e passar o tempo com minha família</ins>.*
 
- - 🐦 *Também tenho uma Calopsita, chamada Fred, de cor cinza e branca.*
+ - 🐦 *Também tenho duas Calopsita, uma chamada Fred, de cor cinza escuro e outra chamda José Bezerra, de cor cinza e branco.*
 
 <img src="https://github.com/user-attachments/assets/a756b495-0203-4572-aebb-acdd5e56f531" width="300">
