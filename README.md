@@ -1,6 +1,6 @@
 # *Quem sou eu?*
  
-- 👤 *Sou o **Gabriel Barros de Albuquerque**, tenho 15 anos, sou corinthiano e estudante da Rede SESI 111.*
+- 👤 *Sou o **Gabriel Barros de Albuquerque**, tenho 17 anos, sou corinthiano e estudante da Rede SESI 111.*
 
 - 📋 *No momento estou realizando um curso de <ins>Análise e Desenvolvimento de Sistemas</ins> na **Escola SENAI Conde José Vicente de Azevedo.***
 
@@ -10,4 +10,3 @@
 
  - 🐦 *Também tenho duas Calopsita, uma chamada Fred, de cor cinza escuro e outra chamda José Bezerra, de cor cinza e branco.*
 
-<img src="https://github.com/user-attachments/assets/a756b495-0203-4572-aebb-acdd5e56f531" width="300">
